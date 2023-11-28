@@ -25,6 +25,7 @@
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [Yash Kan] (https://github.com/yash-phoenix79)
+- [Ashwit Sharma] (https://github.com/itsashwitsharma)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
